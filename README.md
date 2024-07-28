@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="right">
+  <a href="https://docs.google.com/document/d/1S3WUdfQ0ICWj9T1GiX67JinOKaM6TurP2lYOcBAxF6o/edit?usp=sharing">📁 AI Projects</a>  ·  
+  <a href="https://github.com/justin-concierge">💼 GitHub (work)</a>  ·  
+  <a href="https://www.linkedin.com/in/justin-liu-profile/">🔗 LinkedIn</a>
+</p>
 
-<!--
-**justinliu23/justinliu23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-Here are some ideas to get you started:
+My name is Justin Liu. Thanks for stopping by to check out my projects 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AI Engineer and Researcher
+Specializing in data science and AI research over the last five years, I’ve come to appreciate the surprisingly synergistic relationship between academic and production environments. My research knowledge has enabled me to have a deep understanding of machine learning methods and build end-to-end solutions in computer vision, NLP, and agent-based systems.
+
+### About me
+  - 📚 Harvard sophomore pursuing a concurrent AB/SM in CS with a minor in Stats
+  - 👨‍💻 Currently building AI Agents [[withconcierge.ai]](https://www.withconcierge.ai/)
+  - 📊 Interested in the intersection of data science and finance
+  - 🛠️ Hackathon enthusiast and organizer of YouthHacks [[website]](https://youthincode.github.io/YouthHacks/) [[devpost]](https://youthhacks-14264.devpost.com/)
+  - 🎨 I like to draw [[fine art portfolio]](https://drive.google.com/drive/folders/1do3AtKXgfbHc8bk6n5xVtp7VWuLSIiPI?usp=sharing)
+
+### Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="65px">
+
+Always looking to collab so feel free to [shoot me a message](mailto:justin_liu@college.harvard.edu)!
