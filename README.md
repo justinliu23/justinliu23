@@ -1,7 +1,15 @@
 <p align="right">
-  <a href="https://docs.google.com/document/d/1S3WUdfQ0ICWj9T1GiX67JinOKaM6TurP2lYOcBAxF6o/edit?usp=sharing">📁 AI Projects</a>  ·  
-  <a href="https://github.com/justin-concierge">💼 GitHub (work)</a>  ·  
-  <a href="https://www.linkedin.com/in/justin-liu-profile/">🔗 LinkedIn</a>
+  <a href="https://docs.google.com/document/d/1S3WUdfQ0ICWj9T1GiX67JinOKaM6TurP2lYOcBAxF6o/edit?usp=sharing">
+    <img src="images/portfolio.png" alt="AI Projects" width="24" height="24"> AI Projects
+  </a> &nbsp;
+  
+  <a href="https://github.com/justin-concierge">
+    <img src="images/github.png" alt="GitHub" width="24" height="24"> GitHub (work)
+  </a> &nbsp; 
+  
+  <a href="https://www.linkedin.com/in/justin-liu-profile/">
+    <img src="images/linkedin.png" alt="LinkedIn" width="24" height="24"> LinkedIn
+  </a>
 </p>
 
 ## Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
