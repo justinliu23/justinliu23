@@ -1,14 +1,14 @@
 <p align="right">
   <a href="https://docs.google.com/document/d/1S3WUdfQ0ICWj9T1GiX67JinOKaM6TurP2lYOcBAxF6o/edit?usp=sharing">
-    <img src="images/portfolio.png" alt="AI Projects" width="24" height="24"> AI Projects
+    <img src="images/portfolio.png" alt="AI Projects" width="22" height="22"> AI Projects
   </a> &nbsp;
   
   <a href="https://github.com/justin-concierge">
-    <img src="images/github.png" alt="GitHub" width="24" height="24"> GitHub (business)
+    <img src="images/github.png" alt="GitHub" width="22" height="22"> GitHub (business)
   </a> &nbsp; 
   
   <a href="https://www.linkedin.com/in/justin-liu-profile/">
-    <img src="images/linkedin.png" alt="LinkedIn" width="24" height="24"> LinkedIn
+    <img src="images/linkedin.png" alt="LinkedIn" width="22" height="22"> LinkedIn
   </a>
 </p>
 
@@ -21,10 +21,11 @@ Specializing in data science and AI research over the last five years, I’ve co
 
 ### About me
   - 📚 Harvard sophomore pursuing a concurrent AB/SM in CS with a minor in Stats
-  - 👨‍💻 Currently building AI Agents [withconcierge.ai](https://www.withconcierge.ai/)
+  - 🌱 Builder + investor backgrounds in B2B SaaS/Fintech
   - 📊 Interested in the intersection of data science and finance
+  - 👨‍💻 Currently building AI Agents [withconcierge.ai](https://www.withconcierge.ai/)
   - 🛠️ Hackathon enthusiast and organizer of YouthHacks [[website]](https://youthincode.github.io/YouthHacks/) [[devpost]](https://youthhacks-14264.devpost.com/)
-  - 🎨 I like to draw [[fine art portfolio]](https://drive.google.com/drive/folders/1do3AtKXgfbHc8bk6n5xVtp7VWuLSIiPI?usp=sharing)
+  - 🎨 I like to draw :) [[fine art portfolio]](https://drive.google.com/drive/folders/1do3AtKXgfbHc8bk6n5xVtp7VWuLSIiPI?usp=sharing)
 
 ### Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="65px">
 
