@@ -4,7 +4,7 @@
   </a> &nbsp;
   
   <a href="https://github.com/justin-concierge">
-    <img src="images/github.png" alt="GitHub" width="24" height="24"> GitHub (work)
+    <img src="images/github.png" alt="GitHub" width="24" height="24"> GitHub (business)
   </a> &nbsp; 
   
   <a href="https://www.linkedin.com/in/justin-liu-profile/">
@@ -21,7 +21,7 @@ Specializing in data science and AI research over the last five years, I’ve co
 
 ### About me
   - 📚 Harvard sophomore pursuing a concurrent AB/SM in CS with a minor in Stats
-  - 👨‍💻 Currently building AI Agents [[withconcierge.ai]](https://www.withconcierge.ai/)
+  - 👨‍💻 Currently building AI Agents [withconcierge.ai](https://www.withconcierge.ai/)
   - 📊 Interested in the intersection of data science and finance
   - 🛠️ Hackathon enthusiast and organizer of YouthHacks [[website]](https://youthincode.github.io/YouthHacks/) [[devpost]](https://youthhacks-14264.devpost.com/)
   - 🎨 I like to draw [[fine art portfolio]](https://drive.google.com/drive/folders/1do3AtKXgfbHc8bk6n5xVtp7VWuLSIiPI?usp=sharing)
