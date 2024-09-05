@@ -18,7 +18,6 @@ Specializing in data science and AI research over the last five years, I’ve co
 ### About me
   - 📚 Harvard sophomore pursuing a concurrent AB/SM in CS with a minor in Stats
   - 🌱 Builder + investor backgrounds in B2B SaaS/Fintech
-  - 📊 Interested in the intersection of data science and finance
   - 👨‍💻 Currently building AI Agents [withconcierge.ai](https://www.withconcierge.ai/)
   - 🛠️ Hackathon enthusiast and organizer of YouthHacks [[website]](https://youthincode.github.io/YouthHacks/) [[devpost]](https://youthhacks-14264.devpost.com/)
   - 🎨 I like to draw :) [[fine art portfolio]](https://drive.google.com/drive/folders/1do3AtKXgfbHc8bk6n5xVtp7VWuLSIiPI?usp=sharing)
