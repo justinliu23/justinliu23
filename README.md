@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://docs.google.com/document/d/1S3WUdfQ0ICWj9T1GiX67JinOKaM6TurP2lYOcBAxF6o/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/1S3WUdfQ0ICWj9T1GiX67JinOKaM6TurP2lYOcBAxF6o/preview?tab=t.0#heading=h.gjdgxs">
     <img src="images/portfolio.png" alt="AI Projects" width="22" height="22"> AI Projects
   </a> &nbsp;
 
@@ -16,7 +16,7 @@ My name is Justin Liu. Thanks for stopping by to check out my projects 😄
 Specializing in data science and AI research over the last five years, I’ve come to appreciate the surprisingly synergistic relationship between academic and production environments. My research knowledge has enabled me to have a deep understanding of machine learning methods and build end-to-end solutions in computer vision, NLP, and agent-based systems.
 
 ### About me
-  - 📚 Harvard sophomore pursuing a concurrent AB/SM in CS with a minor in Stats
+  - 📚 Harvard sophomore pursuing a concurrent AB/SM in Computer Science with a minor in Statistics
   - 🌱 Builder + investor backgrounds in B2B SaaS/Fintech
   - 👨‍💻 Currently building AI Agents [withconcierge.ai](https://www.withconcierge.ai/)
   - 🛠️ Hackathon enthusiast and organizer of YouthHacks [[website]](https://youthincode.github.io/YouthHacks/) [[devpost]](https://youthhacks-14264.devpost.com/)
