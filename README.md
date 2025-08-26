@@ -14,7 +14,7 @@ My name is Justin Liu. Thanks for stopping by to check out my projects 😄
 
 ### About me
   - 📚 Junior at Harvard studying CS + Stats, pursuing concurrent MS in CS (AI specialization)
-  - 🌱 Builder + investor backgrounds
+  - 🌱 Builder + investor backgrounds in GenAI/AI Infra
   - 👨‍💻 Currently working on distributed model serving systems for [Ray](https://github.com/ray-project/ray)
   - 🎨 [I like to draw :)](https://drive.google.com/drive/folders/1do3AtKXgfbHc8bk6n5xVtp7VWuLSIiPI?usp=sharing)
 
