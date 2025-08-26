@@ -12,15 +12,12 @@
 
 My name is Justin Liu. Thanks for stopping by to check out my projects 😄
 
-### AI Engineer
-Initially specializing in ML research at Stanford and Berkeley, I’ve come to appreciate the surprisingly synergistic relationship between academic and production environments over the last five years. My research knowledge has enabled me to have a deep understanding of state-of-the-art machine learning techniques and deploy them in large-scale computer vision, LLM, and agentic products.
-
 ### About me
-  - 📚 Harvard junior pursuing a concurrent BA/MS in Computer Science with a minor in Statistics
-  - 🌱 Builder + investor backgrounds in B2B SaaS/AI Infra
+  - 📚 Junior at Harvard studying CS + Stats, pursuing concurrent MS in CS (AI specialization)
+  - 🌱 Builder + investor backgrounds
   - 👨‍💻 Currently working on distributed model serving systems for [Ray](https://github.com/ray-project/ray)
   - 🎨 [I like to draw :)](https://drive.google.com/drive/folders/1do3AtKXgfbHc8bk6n5xVtp7VWuLSIiPI?usp=sharing)
 
 ### Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="65px">
 
-Always looking to collab so feel free to [shoot me a message](mailto:justin_liu@college.harvard.edu)!
+Always looking to collab so feel free to shoot a [message](mailto:justin_liu@college.harvard.edu)!
